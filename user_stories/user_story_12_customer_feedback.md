@@ -1,4 +1,4 @@
-# User story title: Room Status Update
+# User story title: Customer Feedback Form
 
 
 ## Priority: 30
@@ -9,6 +9,8 @@
 
 
 ## Assumptions (if any):
+* Customers will have access to a feedback form where they can provide comments, ratings, and suggestions about their stay
+* The feedback form will be easily accessible and intuitive to use, encouraging customers to provide feedback
 
 
 ## Description:
@@ -16,14 +18,13 @@ Description-v1: The customers will be able to provide feedback on their stay thr
 
 
 ## Tasks, see chapter 4.
-1. Task 1, Estimation XX days
-2. ...
+1. Design the user interface for the "Customer Feedback Form" page, including form fields for comments, ratings, and suggestions (Estimation 0.5 days)
+2. Develop the backend functionality to store customer feedback in a database (Estimation 0.5 days)
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![Feedback](../UI/Feedback.png)
+
 
 # Completed:
 * (New, not in the textbook) 
