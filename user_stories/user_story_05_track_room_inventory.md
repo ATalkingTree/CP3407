@@ -4,11 +4,13 @@
 ## Priority: 20
 
 
-## Estimation: 2 days
-* Louis: 2 days
+## Estimation: 1 days
+* Louis: 1 days
 
 
 ## Assumptions (if any):
+* Hotel managers will have access to a list of room types and their corresponding inventory levels.
+* The system will display real-time inventory levels for each room type.
 
 
 ## Description:
@@ -16,14 +18,13 @@ Description-v1: The users (hotel managers) will be able to track the inventory o
 
 
 ## Tasks, see chapter 4.
-1. Task 1, Estimation XX days
-2. ...
+1. Design the user interface for the "Track Room Inventory" page, including a list of room types and their current inventory levels (Estimation 1 days)
+
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![Track Room Inventory](<../UI/Track Room Inventory.png>)
+
 
 # Completed:
 * (New, not in the textbook) 
