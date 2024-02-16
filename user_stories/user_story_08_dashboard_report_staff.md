@@ -9,6 +9,7 @@
 
 
 ## Assumptions (if any):
+* Hotel staff will have access to a dashboard displaying real-time key information such as current bookings, room availability, and occupancy rates.
 
 
 ## Description:
@@ -16,14 +17,13 @@ Description-v1: The users (hotel staffs) will be able to access a dashboard for 
 
 
 ## Tasks, see chapter 4.
-1. Task 1, Estimation XX days
-2. ...
+1. Design the user interface for the "Dashboard for Staff" page, including widgets for displaying current bookings, room availability, and occupancy rates (Estimation 0.5 days)
+2. Develop the backend functionality to retrieve and display real-time booking and availability information (Estimation 0.5 days)
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![Staff Dashboard](<../UI/Staff Dashboard.png>)
+
 
 # Completed:
 * (New, not in the textbook) 

@@ -9,6 +9,8 @@
 
 
 ## Assumptions (if any):
+* Hotel managers will have access to a dashboard displaying key performance indicators such as current bookings, revenue, and occupancy rates.
+* The dashboard will provide historical data and trends to help managers monitor hotel performance over time.
 
 
 ## Description:
@@ -16,14 +18,14 @@ Description-v1: The users (hotel managers) will be able to access a dashboard sh
 
 
 ## Tasks, see chapter 4.
-1. Task 1, Estimation XX days
-2. ...
+1. Design the user interface for the "Dashboard for Managers" page, including widgets for displaying current bookings, revenue, and occupancy rates, as well as charts and graphs for visualizing trends (Estimation 1 days)
+2. Develop the backend functionality to retrieve and display real-time and historical booking, revenue, and occupancy data (Estimation 1 days)
+3. Implement the ability for managers to filter and customize the dashboard based on their needs, such as selecting specific date ranges or viewing data for different room types (Estimation 1 days)
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![Admin Dashboard](<../UI/Admin Dashboard.png>)
+
 
 # Completed:
 * (New, not in the textbook) 
