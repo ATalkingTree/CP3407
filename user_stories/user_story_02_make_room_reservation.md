@@ -15,6 +15,7 @@
 
 ## Description:
 Description-v1: The users (hotel staffs) will be able to make room reservation for guests to secure their bookings
+Description-v2: The users (hotel staffs) will be able to check guests into their room efficiently, saving necessary information like their identification and payment details
 
 
 ## Tasks, see chapter 4.
