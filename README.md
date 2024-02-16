@@ -15,10 +15,22 @@ Checklist/TODOs:
 * github entry timestamp is BEFORE the iteration-1
 * User stories are correct: see p39
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
 
-Total: YY days
+## Priority and Estimation
+* User Story 04 Guest Check Out Feature, Priority 10, Estimation 0.5 days
+* User Story 02 Make Room Reservation  , Priority 10, Estimation 01 days
+* User Story 08 Staff Dashboard Report , Priority 10, Estimation 01 days
+* User Story 01 Check Room Availability, Priority 10, Estimation 02 days
+* User Story 13 Customer Payment       , Priority 10, Estimation 02 days
+
+* User Story 11 Customer Confirmation  , Priority 20, Estimation 0.5 days
+* User Story 05 Track Room Inventory   , Priority 20, Estimation 01 days
+* User Story 10 Room Status Update     , Priority 20, Estimation 01 days
+* User Story 06 Manage Room Inventory  , Priority 20, Estimation 02 days
+* User Story 09 Admin Dashboard Report , Priority 20, Estimation 03 days
+
+* User Story 12 Customer Feedback Form , Priority 30, Estimation 01 days
+* User Story 07 User Management        , Priority 30, Estimation 05 days
 
 
 # Assignment-2: Iterations
