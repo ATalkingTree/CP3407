@@ -16,13 +16,12 @@ Checklist/TODOs:
 * User stories are correct: see p39
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
-## Priority and Estimation
+## Priority and Estimation TODO: Please make them into links
 * User Story 04 Guest Check Out Feature, Priority 10, Estimation 0.5 days
 * User Story 02 Make Room Reservation  , Priority 10, Estimation 01 days
 * User Story 08 Staff Dashboard Report , Priority 10, Estimation 01 days
-* User Story 01 Check Room Availability, Priority 10, Estimation 02 days
+* [User Story 01 Check Room Availability](./user_stories/ser_story_01_check_room_availability.md) , Priority 10, Estimation 02 days  , 
 * User Story 13 Customer Payment       , Priority 10, Estimation 02 days
-
 * User Story 11 Customer Confirmation  , Priority 20, Estimation 0.5 days
 * User Story 05 Track Room Inventory   , Priority 20, Estimation 01 days
 * User Story 10 Room Status Update     , Priority 20, Estimation 01 days
