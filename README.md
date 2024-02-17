@@ -20,7 +20,7 @@ Checklist/TODOs:
 * User Story 04 Guest Check Out Feature, Priority 10, Estimation 0.5 days
 * User Story 02 Make Room Reservation  , Priority 10, Estimation 01 days
 * User Story 08 Staff Dashboard Report , Priority 10, Estimation 01 days
-* [User Story 01 Check Room Availability](./user_stories/ser_story_01_check_room_availability.md) , Priority 10, Estimation 02 days  , 
+* [User Story 01 Check Room Availability](./user_stories/user_story_01_check_room_availability.md) , Priority 10, Estimation 02 days  , 
 * User Story 13 Customer Payment       , Priority 10, Estimation 02 days
 * User Story 11 Customer Confirmation  , Priority 20, Estimation 0.5 days
 * User Story 05 Track Room Inventory   , Priority 20, Estimation 01 days
